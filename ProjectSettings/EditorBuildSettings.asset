@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene/SampleScene.unity
+    guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 0
+    path: Assets/Scenes/Feature Demos/StaticScene2.unity
+    guid: 3498c2737b6f0ca478e996fca92ae026
+  - enabled: 0
+    path: Assets/Scenes/Feature Demos/StaticScene1.unity
+    guid: 11049b2125d99794b9d820f060691c46
+  - enabled: 0
+    path: Assets/Scenes/Landsacape1.unity
+    guid: 4d522e173fe3c4eb580a4b2db6f2fcc6
+  - enabled: 1
+    path: Assets/Scenes/StartingMenu.unity
+    guid: b56dc12a320133f4a832597adcc13f38
+  - enabled: 1
+    path: Assets/Scenes/Landsacape.unity
+    guid: 5b5d4988f591948c28dfda73bfa29487
+  - enabled: 1
+    path: Assets/Scenes/ResultScreen.unity
+    guid: 70ad7d693e81b5945a3cd7d90b95e018
+  - enabled: 1
+    path: Assets/Scenes/TreeGrowth.unity
+    guid: bc20ac6071ad8d749b7c62c913f972bd
+  - enabled: 1
+    path: Assets/Scenes/finalResults.unity
+    guid: 4d4dbe0d84344804a85a7bef7716fc82
+  - enabled: 1
+    path: Assets/Scenes/story scene.unity
+    guid: d8a1a7dd6041819489f600a14bd3dd97
+  - enabled: 1
+    path: Assets/Scenes/Devestation.unity
+    guid: f6565974b987eaf4c99752528d376727
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
